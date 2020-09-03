@@ -1,0 +1,21 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: purple;
+}
+
+p {
+  color: red;
+}
+
+body {
+background-color: dodgerblue;
+}
+img {
+  border: 5px dashed pink;
+  width: 25%;
+}
+</style>
