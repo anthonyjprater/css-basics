@@ -5,6 +5,15 @@
 
 h1 {
   color: purple;
+  border-style: double;
+  border-width: 2px;
+  border-color: #00ff00;
+}
+
+p.important-text {
+  width: 75%;
+  color: orange;
+  ;
 }
 
 p {
@@ -18,4 +27,18 @@ img {
   border: 5px dashed pink;
   width: 25%;
 }
+
+.important-text:hover {
+  color: green;
+}
+
+a[href="https://www.pbs.org/"] {
+  background-color: tomato;
+  padding: 2rem;
+}
+a[href="https://www.espn.com/"] {
+  background-color: yellow;
+  padding: 1rem;
+}
+
 </style>

@@ -18,4 +18,12 @@ img {
   border: 5px dashed pink;
   width: 25%;
 }
+
+a[href="https://www.pbs.org/"] {
+  background-color: tomato;
+}
+a[href="https://www.espn.com/"] {
+  background-color: yellow;
+}
+
 </style>
